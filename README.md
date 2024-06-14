@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sevvalkanat
-- 👀 I’m interested in javascript
+- 👀 I’m interested in Backend with nodeJS
 - 🌱 I’m currently learning nodejs with frontend in patika.dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
